@@ -1,1 +1,2 @@
-I am currently on my first cucle of guilt
+#Here i will make notes about status of this little "project"
+I am currently on my first cycle of guilt
